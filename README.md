@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to reedary's world!
 
 You can use the [editor on GitHub](https://github.com/reedary/reedary.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -6,30 +6,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### About me
 
-I am a IC verification engineer. is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am a digital IC verification engineer. My email is reedary@gmail.com
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### change your shell
+## change your shell
 - chsh
 
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/reedary/reedary.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
