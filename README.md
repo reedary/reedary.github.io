@@ -13,10 +13,9 @@ Syntax highlighted code block
 
 # Header 1
 ## Header 2
-### Header 3
+### change your shell
+- chsh
 
-- Bulleted
-- List
 
 1. Numbered
 2. List
