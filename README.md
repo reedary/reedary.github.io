@@ -1,8 +1,5 @@
 ## Welcome to reedary's world!!
 
-You can use the [editor on GitHub](https://github.com/reedary/reedary.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-
 ### About me
 
 I am a digital senior IC verification engineer. My email is reedary@gmail.com
@@ -70,4 +67,7 @@ I am a digital senior IC verification engineer. My email is reedary@gmail.com
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Email:reedary@gmail.com/reedary@qq.com
+
+
+You can use the [editor on GitHub](https://github.com/reedary/reedary.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
